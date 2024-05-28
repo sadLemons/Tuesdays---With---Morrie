@@ -288,7 +288,7 @@ img {
         -ms-flex-direction: row;
             flex-direction: row;
     margin-left: auto;
-    margin-right: 350px;
+    margin-right: auto;
   }
   .section__text {
     padding-right: 4rem;
